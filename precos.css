@@ -143,7 +143,6 @@ ul li.contato:hover {
 
 @media screen and (max-width: 1020px) {
     .tabela-img {
-        display: flex !important;
         height: 100vh !important;
     }
     .menu-lateral,
