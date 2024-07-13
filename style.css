@@ -296,7 +296,7 @@ ul li.contato:hover{
     position: fixed;
     display: flex !important;
     left: 39%;
-    top: 3%;
+    top: 8%;
     color: white;
     background-color: rgba(0, 0, 0, 0.3);
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
