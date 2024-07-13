@@ -293,6 +293,7 @@ ul li.contato:hover{
     justify-content: center;
     position: absolute;
     position: fixed;
+    right: 23%;
     display: flex !important;
     color: white;
     background-color: rgba(0, 0, 0, 0.3);
