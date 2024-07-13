@@ -241,9 +241,8 @@ ul li.contato:hover{
 }
 
 .tabela-img {
+    display: flex;
     box-sizing: border-box;
-    height: 100vh;
-    width: auto;
 }
 
 .precos a {
