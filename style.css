@@ -213,6 +213,9 @@ ul li.contato:hover{
 }
 
 
+/* Códigos para o mobile */
+
+
 @media screen and (max-width: 1020px){
 
 .menu-lateral {
@@ -282,6 +285,7 @@ ul li.contato:hover{
 .instagram {
     text-decoration: none !important;
     font-family: 'Krona One', sans-serif;
+    justify-content: center;
     position: absolute;
     position: fixed;
     display: flex !important;

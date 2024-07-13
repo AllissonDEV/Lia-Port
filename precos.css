@@ -139,10 +139,12 @@ ul li.contato:hover {
     background-color: rgb(212, 73, 166);
 }
 
+/* Códigos para o mobile  */
+
 @media screen and (max-width: 1020px) {
     .tabela {
         display: flex !important;
-        height: 500px !important;
+        height: 100vh !important;
     }
     .menu-lateral,
     .btn-expandir {
@@ -150,11 +152,8 @@ ul li.contato:hover {
     }
 
     .tabela {
-        padding-top: 40%;
         background-position: center;
         background-repeat: no-repeat;
-        width: 105vw;
-        height: 70vh;
     }
 
 .nav-voltar {
