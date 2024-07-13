@@ -247,7 +247,7 @@ ul li.contato:hover{
 
 .precos .icon {
     text-decoration: none !important;
-    font-size: 24px;
+    font-size: 26px;
     font-weight: 800;
     color: rgb(13, 179, 54);
     font-family: 'Krona One', sans-serif;
@@ -255,7 +255,7 @@ ul li.contato:hover{
 .precos .txt-link {
     text-decoration: none !important;
     font-family: 'Monteserrat', sans-serif;
-    font-size: 17px;
+    font-size: 24px;
     font-weight: 5;
     color: white;
 }
@@ -281,6 +281,7 @@ ul li.contato:hover{
 .facebook .icon {
     padding-right: 6%;
     color: blue;
+    font-size: 18px;
 }
 
 .facebook .txt-link {
@@ -308,6 +309,7 @@ ul li.contato:hover{
 .instagram .icon {
     color: palevioletred;
     padding-right: 6%;
+    font-size: 18px;
 }
 
 .instagram .txt-link {
