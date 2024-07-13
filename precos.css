@@ -152,6 +152,7 @@ ul li.contato:hover {
     }
 
     .tabela {
+        box-sizing: border-box;
         background-position: center;
         background-repeat: no-repeat;
     }
