@@ -142,7 +142,7 @@ ul li.contato:hover {
 /* Códigos para o mobile  */
 
 @media screen and (max-width: 1020px) {
-    .tabela {
+    .tabela-img {
         display: flex !important;
         height: 100vh !important;
     }
@@ -151,7 +151,7 @@ ul li.contato:hover {
         display: none;
     }
 
-    .tabela {
+    .tabela-img {
         box-sizing: border-box;
         background-position: center;
         background-repeat: no-repeat;
