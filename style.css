@@ -240,11 +240,6 @@ ul li.contato:hover{
     font-weight: 10;
 }
 
-.tabela-img {
-    display: flex;
-    box-sizing: border-box;
-}
-
 .precos a {
     text-decoration: none !important;
 }
