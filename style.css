@@ -291,9 +291,9 @@ ul li.contato:hover{
     text-decoration: none !important;
     font-family: 'Krona One', sans-serif;
     justify-content: center;
+    align-items: center;
     position: absolute;
     position: fixed;
-    right: 23%;
     display: flex !important;
     color: white;
     background-color: rgba(0, 0, 0, 0.3);
