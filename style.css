@@ -16,8 +16,6 @@ body {
     margin: 0;
     position: relative;
     background-color: white;
-    background-image: url(/assets/galaxyBG.gif);
-    background-repeat: no-repeat;
 }
 
 .image-container{
