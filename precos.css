@@ -141,10 +141,24 @@ ul li.contato:hover {
 
 /* Códigos para o mobile  */
 
+@media screen and (max-width: 768px) {
+    .tabela-img {
+        padding-top: 30%;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .tabela-img {
+        padding-top: 30%;
+    }
+}
+
 @media screen and (max-width: 1020px) {
     .tabela-img {
-        height: 75vh !important;
-        width: auto;
+        height: auto !important;
+        width: 100%;
+        max-height: 75vh;
+        object-fit: cover;
     }
     .menu-lateral,
     .btn-expandir {
