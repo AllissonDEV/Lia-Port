@@ -139,7 +139,7 @@ ul li.contato:hover {
     background-color: rgb(212, 73, 166);
 }
 
-/* Códigos para o mobile  */
+
 
 @media screen and (max-width: 768px) {
     .tabela-img {
