@@ -237,7 +237,7 @@ ul li.contato:hover{
     border-radius: 8px;
     text-decoration: none;
     padding: 1% 2% 1% 1%;
-    font-weight: 10;
+    font-weight: 8;
 }
 
 .precos a {
@@ -246,7 +246,7 @@ ul li.contato:hover{
 
 .precos .icon {
     text-decoration: none !important;
-    font-size: 26px;
+    font-size: 16px;
     font-weight: 800;
     color: rgb(13, 179, 54);
     font-family: 'Krona One', sans-serif;
@@ -254,7 +254,7 @@ ul li.contato:hover{
 .precos .txt-link {
     text-decoration: none !important;
     font-family: 'Monteserrat', sans-serif;
-    font-size: 24px;
+    font-size: 16px;
     font-weight: 5;
     color: white;
 }
@@ -280,11 +280,11 @@ ul li.contato:hover{
 .facebook .icon {
     padding-right: 6%;
     color: blue;
-    font-size: 26px;
+    font-size: 16px;
 }
 
 .facebook .txt-link {
-    font-size: 24px;
+    font-size: 16px;
 }
 .instagram {
     text-decoration: none !important;
@@ -294,7 +294,7 @@ ul li.contato:hover{
     position: absolute;
     position: fixed;
     display: flex !important;
-    left: 40%;
+    left: 33%;
     top: 6%;
     color: white;
     background-color: rgba(0, 0, 0, 0.3);
@@ -310,11 +310,11 @@ ul li.contato:hover{
 .instagram .icon {
     color: palevioletred;
     padding-right: 10%;
-    font-size: 26px;
+    font-size: 16px;
 }
 
 .instagram .txt-link {
-    font-size: 24px;
+    font-size: 16px;
 }
 
 .buttons {
@@ -361,7 +361,7 @@ ul li.contato:hover{
 
 /* botão direito (button proximo) */
 .right {
-    right: 20%;
+    right: 10%;
 }
 
     .rodape{
